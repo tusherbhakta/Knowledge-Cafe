@@ -1,8 +1,3 @@
-# React + Vite
+The website Knowledge-Cafe is a bloging website where users can read blogs. User can bookmark the blog and watch there bookmarks list in the website. User can also Mark the blog they have already read and they can see the spenden time on read in this website. After clicking mark as read button the same blog will be remove from bookmark.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live link: https://knowledge-cafe-tusher-bhakta.netlify.app/
