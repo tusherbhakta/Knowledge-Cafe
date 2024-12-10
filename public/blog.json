@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/q0nTP1T/DALL-E-2024-12-09-01-43-37-A-breathtaking-depiction-of-exploring-the-cosmos-a-futuristic-astronaut-s.webp",
+      "title": "Exploring the Cosmos",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/ZNX0mQV/boy1.png",
+      "posted_date": "4 Dec (5 days ago)",
+      "reading_time": 7,
+      "hashtag": ["#science", "#space", "#cosmos"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/xf8tFpT/DALL-E-2024-12-09-01-45-13-A-serene-and-artistic-depiction-of-mindfulness-a-person-meditating-on-a-w.webp",
+      "title": "The Art of Mindfulness",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/F8xZxH3/boy2.jpg",
+      "posted_date": "25 Nov (14 days ago)",
+      "reading_time": 5,
+      "hashtag": ["#mindfulness", "#wellbeing", "#lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/RgqH6Jx/DALL-E-2024-12-09-01-46-31-A-futuristic-and-vibrant-depiction-of-technology-trends-in-2024-a-high-te.webp",
+      "title": "Tech Trends in 2024",
+      "author": "Emily Clarke",
+      "author_img": "https://i.ibb.co/MSVdbGZ/girl1.jpg",
+      "posted_date": "5 Dec (4 days ago)",
+      "reading_time": 8,
+      "hashtag": ["#technology", "#innovation", "#trends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/5Y9qdvz/DALL-E-2024-12-10-00-31-27-A-cheerful-and-cozy-kitchen-scene-that-embodies-Cooking-Made-Easy-a-brigh.webp",
+      "title": "Cooking Made Easy",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/ZNX0mQV/boy1.png",
+      "posted_date": "7 Dec (2 days ago)",
+      "reading_time": 6,
+      "hashtag": ["#cooking", "#recipes", "#food"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/pfwPW66/DALL-E-2024-12-09-01-57-14-A-symbolic-landscape-representing-Mastering-the-Art-of-Negotiation-The-sc.webp",
+      "title": "Mastering the Art of Negotiation",
+      "author": "Sophia Wilson",
+      "author_img": "https://i.ibb.co/MZ8JQHb/girl2.jpg",
+      "posted_date": "30 Nov (9 days ago)",
+      "reading_time": 10,
+      "hashtag": ["#business", "#skills", "#success"]
+    }
+  ]
+  
